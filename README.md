@@ -1,6 +1,6 @@
 # ruby-getting-started
 
-Affff barebones Rails app, which can easily be deployed to Heroku.
+Afffjjjf barebones Rails app, which can easily be deployed to Heroku.
 
 This application support the [Getting Started with Ruby on Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby) article - check it out.
 
