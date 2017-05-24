@@ -1,6 +1,0 @@
-deployment:
-  staging:
-    branch: master2
-    heroku:
-      appname: dempj-app-staging
-
